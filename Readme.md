@@ -1,0 +1,1 @@
+Esse é um repositorio de um curso de python do básico ao avançado
